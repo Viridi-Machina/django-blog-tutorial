@@ -1,7 +1,7 @@
 ---
 name: User story template
 about: Custom template for project user stories
-title: 'SITE_ADMINISTRATOR SITE_USER'
+title: 'SITE_ADMINISTRATOR SITE_USER | '
 labels: ''
 assignees: ''
 
